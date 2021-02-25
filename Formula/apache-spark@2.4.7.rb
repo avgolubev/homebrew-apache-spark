@@ -1,4 +1,4 @@
-class ApacheSparklAT247 < Formula
+class ApacheSparkAT247 < Formula
   desc "Engine for large-scale data processing"
   homepage "https://spark.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-2.4.7/spark-2.4.7-bin-hadoop2.7.tgz"
