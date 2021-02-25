@@ -4,7 +4,7 @@ class ApacheSpark < Formula
   url "https://www.apache.org/dyn/closer.lua?path=spark/spark-2.4.7/spark-2.4.7-bin-hadoop2.7.tgz"
   mirror "https://archive.apache.org/dist/spark/spark-2.4.7/spark-2.4.7-bin-hadoop2.7.tgz"
   version "2.4.7"
-  sha2512 "0F5455672045F6110B030CE343C049855B7BA86C0ECB5E39A075FF9D093C7F648DA55DED12E72FFE65D84C32DCD5418A6D764F2D6295A3F894A4286CC80EF478"
+  sha256 "13098490936c9931beda3acc4c30cdc5ca707acd1415eebde1030b11903934fe"
   license "Apache-2.0"
   head "https://github.com/apache/spark.git"
 
